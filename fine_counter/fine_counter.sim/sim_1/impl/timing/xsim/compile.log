@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/shantanu/TIFR/fine_counter/fine_counter.sim/sim_1/impl/timing/xsim/sim_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay
+INFO: [VRFC 10-311] analyzing module delay_0
+INFO: [VRFC 10-311] analyzing module delay_1
+INFO: [VRFC 10-311] analyzing module delay_10
+INFO: [VRFC 10-311] analyzing module delay_11
+INFO: [VRFC 10-311] analyzing module delay_12
+INFO: [VRFC 10-311] analyzing module delay_2
+INFO: [VRFC 10-311] analyzing module delay_3
+INFO: [VRFC 10-311] analyzing module delay_4
+INFO: [VRFC 10-311] analyzing module delay_5
+INFO: [VRFC 10-311] analyzing module delay_6
+INFO: [VRFC 10-311] analyzing module delay_7
+INFO: [VRFC 10-311] analyzing module delay_8
+INFO: [VRFC 10-311] analyzing module delay_9
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/shantanu/TIFR/fine_counter/fine_counter.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
